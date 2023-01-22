@@ -1,6 +1,6 @@
-https://pypi.org/project/TOPSIS-Vishal-101803152/gf h# DIVYAM JAIN 101803128
+https://pypi.org/project/TOPSIS-Ritika-102003113/gf h# RITIKA 102003113
 
-# python topsis-102003113.py 102003113-data.csv "1,1,1,1,2" "+,+,-,+,+" 102003113-result.csv
+# python 102003113.py 102003113-data.csv "1,1,1,1,1" "-,+,-,+,-" 102003113-result.csv
 
 import numpy as np
 import pandas as pd
